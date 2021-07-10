@@ -1,4 +1,5 @@
-# Apssdc_UETP # Resume
+
+ # Resume
  # _Venkat Naidu Rama_
  # personal Details
  _Name_    : Venkat Naidu. Rama <Br>
